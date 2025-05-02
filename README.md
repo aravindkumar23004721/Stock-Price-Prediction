@@ -9,7 +9,7 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 
 ## Design Steps
-
+``
 ###Step 1:
 Import necessary libraries.
 
@@ -31,7 +31,7 @@ Train the model using the training data.
 ###Step 7:
 Evaluate the model and plot predictions.
 
-
+``
 
 ## Program
 #### Name:Aravind Kumar SS
